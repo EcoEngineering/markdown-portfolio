@@ -1,2 +1,1 @@
-/media/ws/DATA/2_WEB/Web_Bilder/ARDUINO_BILDER/Arduino Nano.jpg
-[Arduino Nano]
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)]
