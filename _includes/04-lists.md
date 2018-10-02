@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Albert Einstein
+- Nicola Tesla
+- Eizek Azimov
+
+1. first
+2. second
+3. third
